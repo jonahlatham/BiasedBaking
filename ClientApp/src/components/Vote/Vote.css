@@ -1,0 +1,41 @@
+.Vote-App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.Vote-container {
+  margin: auto;
+  width: 80%;
+}
+
+.Vote-item {
+  border-bottom: solid;
+  border-width: 1px;
+  margin-top: 15px;
+}
+
+.Vote-submit-button {
+  width: 150px;
+  height: 35px;
+  margin-top: 20px;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 3px;
+  background: #e0e0e0;
+  border-color: #9e9d9d;
+}
+
+.Vote-submit-button:active {
+  background: #d4d4d4;
+}
+
+.Vote-submit-button:focus {
+  outline: none;
+}
+
+.Vote-message {
+  font-size: 30px;
+  width: 85%;
+  margin: auto;
+  color: #5a5a5a;
+}

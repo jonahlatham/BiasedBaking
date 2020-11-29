@@ -1,0 +1,18 @@
+.Register-App {
+  text-align: center;
+}
+
+.Register-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.Register-button {
+  width: 125px;
+}
+
+.Register-button:focus {
+  outline: none;
+}
